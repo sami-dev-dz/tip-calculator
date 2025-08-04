@@ -6,7 +6,7 @@ A simple and modern React application to calculate tips and split the bill based
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./public/screenshot.png)
 
 > Make sure to place a file named `screenshot.png` in the root directory of your project. You can use a real screenshot of your running app.
 
